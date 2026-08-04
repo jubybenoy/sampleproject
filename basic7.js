@@ -20,4 +20,3 @@ console.log(fruits);// Displaying the array after removing the element from spec
 console.log(fruits.indexOf("grapes"));  //finding index of an element in the array
 console.log(fruits.includes("banana"));  //checking if an element is present in the array
 console.log(fruits.includes("adff"));
-
